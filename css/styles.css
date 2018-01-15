@@ -52,7 +52,7 @@ h3 {
 
 header {
     text-align: center;
-    padding: 5rem 0;
+    padding: 7.5rem 0;
     color: #222;
 }
 
@@ -118,7 +118,11 @@ article img {
     color: #fff;
 }
 
-h4 { margin-bottom: .5rem; font-size: 1.65rem; }
+h4 {
+    margin-bottom: .5rem;
+    font-size: 1.65rem;
+    font-weight: 700;
+}
 h4 a { color: #fff }
 
 @media (max-width: 70rem) {
