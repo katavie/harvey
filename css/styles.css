@@ -93,7 +93,7 @@ article img {
     padding: 5%;
     background: rgba(60,60,60,0.7);
     color: #eee;
-    opacity: 0;
+    opacity: 0.5;
     transition: .2s;
 }
 
