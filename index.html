@@ -1,0 +1,111 @@
+---
+title: Home
+layout: home
+---
+
+        <script src="js/imagesloaded.js"></script>
+        <script src="js/packery.js"></script>
+
+        <section id="container">
+            <article>
+                <div class="img-wrap">
+                    <img src="img/blueprint-mentor.jpg" alt="">
+                    <div class="hover-text">
+                        <h2>Blueprint: MIT's High School Hackathon</h2>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/microdisk-beads.jpg" alt="">
+                    <div class="hover-text pre-active">
+                        <h2>Lasers: Billionths of a Meter</h2>
+                        <p class="brief">Last summer, I interned with <a href="https://hugroup.seas.harvard.edu">Evelyn Hu's</a> lab at <b>Harvard University</b>, conducting lab experiments and simulations of nanoscale semiconductor lasers and their electronic band structures.</p>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/biogen.JPG" alt="">
+                    <div class="hover-text">
+                        <h2>Biogen Adventures in Biotechnology</h2>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/MSSEF.jpg" alt="">
+                    <div class="hover-text pre-active">
+                        <h2>Drug Discovery for the Most Poisonous Poison</h2>
+                        <p class="brief">With researchers at <b>UMass Lowell</b>, I ran molecular docking and dynamics simulations of potential drugs against botulinum neurotoxin, which is both the cause of botulism (a deadly condition) and the active ingredient in Botox. I received Third Place at the 2017 Massachusetts State Science and Engineering Fair for this research.</p>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/walden-split.jpg" alt="">
+                    <div class="hover-text">
+                        <h2>Walden Pond</h2>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/mahacks-s17.jpg" alt="">
+                    <div class="hover-text pre-active">
+                        <h2>MAHacks: Technology Meets Entrepreneurship</h2>
+                        <p class="brief">I built <b>Snapdragon</b>, a web app for dragging around objects in photos, at <a href="http://mahacks.com">MAHacks</a>, a Boston-area high school hackathon. Now, as an organizer for the entirely youth-run event, I maintain our website, contact potential sponsors, and help with logistics.</p>
+                    </div>
+                </div>
+            </article>
+            
+            <article>
+                <div class="img-wrap">
+                    <img src="img/ecoli-plates.jpg" alt="">
+                    <div class="hover-text pre-active">
+                        <h2>Plastic and Bacterial Transformation</h2>
+                        <p class="brief">I investigated the effects of burned polyvinyl chloride (PVC) on bacterial transformation. The project earned an Honorable Mention at the 2016 Massachusetts State Science and Engineering Fair and is published in the <a href="https://www.emerginginvestigators.org/articles/an-aqueous-solution-containing-soluble-substances-from-pvc-char-has-no-effect-on-the-rate-of-transformation-in-e-coli-cells"><i>Journal of Emerging Investigators</i></a>.</p>
+                    </div>
+                </div>
+            </article>
+            
+            <article>
+                <div class="img-wrap">
+                    <img src="img/harvard.jpeg" alt="">
+                    <div class="hover-text">
+                        <h2>Harvard Global Health and Leadership Conference</h2>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/cambridge.png" alt="">
+                    <div class="hover-text">
+                        <h2>Photography: Cambridge from Harvard Science Center</h2>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="img-wrap">
+                    <img src="img/walden.jpg" alt="">
+                    <div class="hover-text">
+                        <h2>Photography: Walden Pond</h2>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <script>
+            var imgLoad = new imagesLoaded( document.querySelector('#container'), function( instance) {
+                    new Packery( '#container', {
+                        itemSelector: 'article'
+                    });
+            });
+        </script>

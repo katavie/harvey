@@ -1,0 +1,9 @@
+title:            "Social Media Storm"
+description:      "This project, submitted to MIT INSPIRE 2018, explores social media content posted during Hurricane Harvey, with the goal of drawing conclusions that will aid the integration of official and nonofficial emergency response systems."
+url:              http://inspire2018.github.io # no slash at the end
+
+permalink: /posts/:title
+
+defaults:
+  - values:
+      layout: "default"
