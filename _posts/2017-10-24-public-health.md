@@ -3,11 +3,13 @@ title: Natural Disasters and Public Health
 date: 2017-10-24
 ---
 
-![Image of firefighters by Benjamin Kerensa]({{'/benjamin-kerensa-363991.jpg'|prepend:site.url}})
+## Natural Disasters and Public Health
+
+![Image of firefighters by Benjamin Kerensa]({{'/benjamin-kerensa-363991.jpg'|prepend:site.baseurl}})
 
 These are some notes on a paper written by the James Schultz from the University of Miami and Sandro Galea from Boston University. They discuss the effects of Harvey, Irma, and Maria from a public health perspective, as well as optimal recovery strategies.
 
-## Mitigating the Mental and Physical Health Consequences of Hurricane Harvey
+### Mitigating the Mental and Physical Health Consequences of Hurricane Harvey
 
 This paper begins by recounting the astounding statistics associated with Hurricane Harvey: In merely 5 days, the storm dumped **3 trillion gallons of water** on Texas and Louisiana, breaking the record for rainfall in the continental United States.
 
@@ -19,7 +21,7 @@ A particularly interesting and important aspect the authors mentioned is focusin
 
 The article cites the Building Back Better program by the World Health Organization as an exemplary model for "**population-centric, evidence-based, and mental health-focused** postdisaster interventions." Though the effects of Hurricane Harvey were devastating, it presents an opportunity for the community and country to recover and become ever more knowledgeable and resilient.
 
-## A Multifaceted Problem
+### A Multifaceted Problem
 
 Reading this paper helped me realize the sheer complexity of recovering and rebuilding after a natural disaster. It's not enough to put people back in their homes. Those homes could have sustained extensive damage, including mold, collapses, and infiltration with bacteria carried by contaminated floodwaters. Coming from a place that does not flood frequently, I would never have thought of that.
 
@@ -27,7 +29,7 @@ Furthermore, there is inherently a socioeconomic aspect to this issue. The peopl
 
 Public health isn't the focus of my project, but I've made an important connection to the information in this paper. Social media allows one to study both the situations of individual people and families, as well as communities as a whole. In other words, the Internet allows us to examine areas like public health and disaster management from many different perspectives.
 
-## References
+### References
 
 Shultz, James M., and Sandro Galea. “Mitigating the Mental and Physical Health Consequences of Hurricane Harvey.” *JAMA*, vol. 318, no. 15, 17 Oct. 2017, pp. 1437–1438., doi:10.1001/jama.2017.14618.
 

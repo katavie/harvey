@@ -1,6 +1,7 @@
 title:            "Social Media Storm"
 description:      "This project, submitted to MIT INSPIRE 2018, explores social media content posted during Hurricane Harvey, with the goal of drawing conclusions that will aid the integration of official and nonofficial emergency response systems."
 url:              http://katherinehuang.co/harvey # no slash at the end
+baseurl:          http://katherinehuang.co/harvey
 
 permalink: /:title
 

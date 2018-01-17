@@ -3,11 +3,13 @@ title: Introduction to the Project
 date: 2017-10-22
 ---
 
-![Workspace]({{'/img/setup.png'|prepend:site.url}})
+## Introduction to the Project
+
+![Workspace]({{'/img/setup.png'|prepend:site.baseurl}})
 
 Hi! As part of a project for INSPIRE, a national social sciences research competition held by the Massachusetts Institute of Technology, I’ll be analyzing social media content posted during recent hurricanes, particularly Hurricane Harvey. I have yet to work out the details, but I’ll share some of my ideas so far.
 
-## Inspiration
+### Inspiration
 
 I recently saw a [map](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html) of Houston on *The New York Times* with heartbreaking words of Hurricane Harvey victims overlaid.
 
@@ -23,7 +25,7 @@ The messages and their timestamps included:
 
 Many others and I were moved by this representation of the plight of the hurricane victims. Technology plays an undeniably pervasive role in our lives today, and though critics condemn constant use of it, it can become indispensible during times of disaster.
 
-## Category
+### Category
 
 Twitter has become a popular source of data for social media analysis, from geographic frequency versus time visualizations (e.g. upticks in mentions of the word ‘eclipse’ as the Great American Eclipse moved across the country) to natural language processing (e.g. sentiment analysis of partisan political communities).
 
@@ -39,7 +41,7 @@ In broad terms, this is a social sciences project with computational methodology
 
 Because of the interdisciplinary nature of this work, I’m not yet sure which category I’ll choose for the MIT INSPIRE competition. As a social media analysis, it could fall into Comparative Media Studies. However, depending on what direction I take, it is also fundamentally a study of how humans interact with each other through technological media they’ve developed—so perhaps Science, Technology, & Society.
 
-## Plan
+### Plan
 
 On this blog, I’ll write notes about sources I read, as well as my findings and obstacles. As a warning, this blog isn’t a formal paper, and that fact will be reflected in the largely unedited writing style. :)
 
