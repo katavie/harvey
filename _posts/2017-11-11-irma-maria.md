@@ -5,7 +5,7 @@ date: 2017-11-11
 
 ## Hurricanes Irma and Maria
 
-![Created solely by NASA/Randy Bresnik, released in public domain]({{'img/harvey.jpg'|prepend:site.baseurl}})
+![Created solely by NASA/Randy Bresnik, released in public domain]({{'/img/harvey.jpg'|prepend:site.baseurl}})
 
 James Shultz and Sandro Galea have also authored another paper, which I read and reviewed here. News and people often mix up Hurricanes Harvey, Irma, and Maria, since they all occurred around the same time. Here, I clear up the issue.
 

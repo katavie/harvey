@@ -5,9 +5,19 @@ date: 2017-12-17
 
 ## Official and Nonofficial Response Platforms
 
-![Photo by Giu Vicente, from Unsplash]({{'img/giu-vicente-353330.jpg'|prepend:site.baseurl}})
+![Photo by Giu Vicente, from Unsplash]({{'/img/giu-vicente-353330.jpg'|prepend:site.baseurl}})
 
 As part of my background literature review, I learned that the US government is looking into how to improve and expand social media usage by federal organizations. Bruce Lindsay, who has written reports for Congress, reviewed the current state of social media usage and recommended using it as more of a two-way tool.
+
+### Inputs and Outputs
+
+
+
+During Hurricane Harvey, when rescuers directly contacted 
+
+### Organizations Already Using Social Media
+
+I was surpised to learn that there are so many institutions that already maintain an active presence on various websites. Here are just a few of them:
 
 
 
