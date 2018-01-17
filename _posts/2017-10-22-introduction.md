@@ -3,6 +3,8 @@ title: Introduction to the Project
 date: 2017-10-22
 ---
 
+![Workspace]({{'/img/setup.png'|prepend:site.url}})
+
 Hi! As part of a project for INSPIRE, a national social sciences research competition held by the Massachusetts Institute of Technology, I’ll be analyzing social media content posted during recent hurricanes, particularly Hurricane Harvey. I have yet to work out the details, but I’ll share some of my ideas so far.
 
 ## Inspiration
@@ -10,8 +12,6 @@ Hi! As part of a project for INSPIRE, a national social sciences research compet
 I recently saw a [map](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html) of Houston on *The New York Times* with heartbreaking words of Hurricane Harvey victims overlaid.
 
 One of the visualization’s creators [explained](https://www.reddit.com/r/dataisbeautiful/comments/6x8fng/thousands_cried_for_help_as_houston_flooded_oc/) on Reddit that these messages were extracted from a crowdsourced [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1qmepB5HrFSthl1DyK7lG9slEabY&ll=29.749372349556896%2C-95.6675505611206) of homes and situations in need of rescue.
-
-![Screenshot of Hurricane Harvey rescue requests, visualized by The New York Times]({{'/img/nyt.jpg'|prepend:site.url}} "Screenshot of Hurricane Harvey rescue requests, visualized by The New York Times")
 
 The messages and their timestamps included:
 
@@ -44,6 +44,3 @@ Because of the interdisciplinary nature of this work, I’m not yet sure which c
 On this blog, I’ll write notes about sources I read, as well as my findings and obstacles. As a warning, this blog isn’t a formal paper, and that fact will be reflected in the largely unedited writing style. :)
 
 Thanks for reading!
-
-## References
-Aisch, Gregor et al. "Thousands Cried For Help As Houston Flooded." *The New York Times*, 2017, [https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html).

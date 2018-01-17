@@ -16,7 +16,7 @@ a {
     transition: .2s;
 }
 a:active, a:hover {
-    color: #aaa;
+    color: #888;
 }
 
 h1, h2, h3, h4 {
@@ -73,7 +73,7 @@ section {
 article {
     width: 33%;
 }
-article img {
+img {
     width: 100%;
     display: block;
 }
@@ -124,6 +124,15 @@ h4 {
     font-weight: 700;
 }
 h4 a { color: #fff }
+
+.page h4 {
+    font-weight: 700;
+    margin-top: .5rem;
+}
+.page p {
+    font: 1.05rem/150% Arial, sans-serif;
+    margin: .75rem 0;
+}
 
 @media (max-width: 70rem) {
     article {
