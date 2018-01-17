@@ -5,7 +5,7 @@ date: 2017-10-22
 
 ## Introduction to the Project
 
-![Workspace]({{'/img/setup.png'|prepend:site.baseurl}})
+![Workspace]({{'img/setup.png'|prepend:site.baseurl}})
 
 Hi! As part of a project for INSPIRE, a national social sciences research competition held by the Massachusetts Institute of Technology, I’ll be analyzing social media content posted during recent hurricanes, particularly Hurricane Harvey. I have yet to work out the details, but I’ll share some of my ideas so far.
 

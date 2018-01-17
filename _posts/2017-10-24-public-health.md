@@ -5,7 +5,7 @@ date: 2017-10-24
 
 ## Natural Disasters and Public Health
 
-![Image of firefighters by Benjamin Kerensa]({{'/benjamin-kerensa-363991.jpg'|prepend:site.baseurl}})
+![Image of firefighters by Benjamin Kerensa]({{'img/benjamin-kerensa-363991.jpg'|prepend:site.baseurl}})
 
 These are some notes on a paper written by the James Schultz from the University of Miami and Sandro Galea from Boston University. They discuss the effects of Harvey, Irma, and Maria from a public health perspective, as well as optimal recovery strategies.
 

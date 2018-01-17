@@ -128,8 +128,11 @@ h4 a { color: #fff }
     font-weight: 700;
     margin-top: .75rem;
     line-height: 130%;
+    border: none;
+    padding: 0;
+    display: block;
 }
-.page p {
+.page p, li {
     font: 1.05rem/150% Arial, sans-serif;
     margin: 1rem 0;
 }
@@ -144,7 +147,11 @@ ul, ol {
     margin-left: 2rem;
 }
 
-@media (max-width: 70rem) {
+@media (max-width: 08rem) {
+    header {
+        padding: 5rem 0;
+    }
+
     article {
         width: 47.5%;
         margin-bottom: 5%;
