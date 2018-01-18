@@ -1,11 +1,6 @@
 ---
-title: The Challenges of Twitter Data Collection
-date: 2017-12-17
+title: Reflecting on the Research Process
+date: 2018-01-02
 ---
 
-Twitter's free Streaming API only allows access to the past week of tweets, but Hurricane Harvey occurred several months ago. There are a handful of datasets of Harvey tweets available online, but I'd like to try out different parameters.
-
-This brings me to another issue: 
-
-Another post:
-Text analytics in R
+Throughout this project, I've read dozens of news and journal articles on Hurricane Harvey, social media research, and natural disaster management. Although my social media analyses were not very extensive and yielded few significant insights alone, I've learned a lot.

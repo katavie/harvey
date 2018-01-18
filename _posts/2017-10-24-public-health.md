@@ -7,6 +7,8 @@ date: 2017-10-24
 
 ![Image of firefighters by Benjamin Kerensa]({{'/img/benjamin-kerensa-363991.jpg'|prepend:site.baseurl}})
 
+*This photo, taken by [Benjamin Kerensa](https://unsplash.com/photos/j-MPRQOJfVU), is from [Unsplash](https://unsplash.com/license), whose content is all free to use for commerical and noncommercial purposes.*
+
 These are some notes on a paper written by the James Schultz from the University of Miami and Sandro Galea from Boston University. They discuss the effects of Harvey, Irma, and Maria from a public health perspective, as well as optimal recovery strategies.
 
 ### Mitigating the Mental and Physical Health Consequences of Hurricane Harvey
@@ -32,5 +34,3 @@ Public health isn't the focus of my project, but I've made an important connecti
 ### References
 
 Shultz, James M., and Sandro Galea. “Mitigating the Mental and Physical Health Consequences of Hurricane Harvey.” *JAMA*, vol. 318, no. 15, 17 Oct. 2017, pp. 1437–1438., doi:10.1001/jama.2017.14618.
-
-The photo, taken by [Benjamin Kerensa](https://unsplash.com/photos/j-MPRQOJfVU), is from [Unsplash](https://unsplash.com/license), whose content is all free to use for commerical and noncommercial purposes.

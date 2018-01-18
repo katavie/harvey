@@ -7,6 +7,8 @@ date: 2017-11-11
 
 ![Created solely by NASA/Randy Bresnik, released in public domain]({{'/img/harvey.jpg'|prepend:site.baseurl}})
 
+*I got the photo in this post from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISS-52_Hurricane_Harvey_(7).jpg). It was solely created by NASA/Randy Bresnik and released into the public domain; more information on its licensing it available through the link.*
+
 James Shultz and Sandro Galea have also authored another paper, which I read and reviewed here. News and people often mix up Hurricanes Harvey, Irma, and Maria, since they all occurred around the same time. Here, I clear up the issue.
 
 ### Preparing for the Next Harvey, Irma, or Maria — Addressing Research Gaps
@@ -28,5 +30,3 @@ Overall, these two articles provide a timely assessment of the mental and public
 ### References
 
 Shultz, James M., and Sandro Galea. “Preparing for the Next Harvey, Irma, or Maria — Addressing Research Gaps.” *The New England Journal of Medicine*, 11 Oct. 2017, doi:10.1056/NEJMp1712854.
-
-I got the photo in this post from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISS-52_Hurricane_Harvey_(7).jpg). It was solely created by NASA/Randy Bresnik and released into the public domain; more information on its licensing it available through the link.
