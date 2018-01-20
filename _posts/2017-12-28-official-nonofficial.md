@@ -11,15 +11,21 @@ As part of my background literature review, I learned that the US government is 
 
 ### Inputs and Outputs
 
+Lindsay divides social media use into two categories: inputs and outputs.
 
-
-During Hurricane Harvey, when rescuers directly contacted 
+Outputs include issuing warnings and safety advice. Inputs might involve receiving and processing rescue requests, and monitoring activity and content to estimate damage and establish situational awareness.
 
 ### Organizations Already Using Social Media
 
 I was surpised to learn that there are so many institutions that already maintain an active presence on various websites. Here are just a few of them:
 
+- FEMA (Federal Emergency Management Agency)
+- CDC (Centers for Disease Control and Prevention)
+- National Guard
+- National Weather Service
+- US Army Corps of Engineers
 
+It's definitely caused me to pay more attention on social media! Building a presence as an organization is a deliberate choice that requires regular, thoughtful activity and engagement.
 
 ### References
 
